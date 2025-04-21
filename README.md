@@ -41,4 +41,3 @@ npm run dev
 Links
 Front-End Repository
 Back-End Repository
-Thank you for checking out WildLife Ledger!
