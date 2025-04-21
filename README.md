@@ -1,4 +1,4 @@
-# project6 Wildlife Ledger: Dynamic Animal & Category Management App
+# Wildlife Ledger: Dynamic Animal & Category Management App
 What is Wildlife Ledger?
 Wildlife Ledger is a dynamic web application for managing animal listings and categories. It enables users to add new categories, upload animal details with images, and filter animals by category. The app is built with Next.js and integrates a backend API using Node.js, Express, and MongoDB, with file uploads handled by Cloudinary.
 
