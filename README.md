@@ -20,12 +20,6 @@ To set up and run the Wildlife Ledger app, follow these steps:
 
 Note: Ensure you have Node.js and MongoDB installed on your system!
 
-Clone the client and server repositories:
-
-git clone https://github.com/masudranashawon/wildlife-ledger-client.git
-git clone https://github.com/masudranashawon/wildlife-ledger-server.git
-Install the necessary packages for both the client and server
-
 npm install or npm i
 create a .env file in the server root with your connection strings
 
